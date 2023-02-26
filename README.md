@@ -1,6 +1,6 @@
-# QTL - TP
+# QTL - TP 5
 
-La liste des 5 TP de QT pour la première année de Master SIGLIS.
+Pour ce cinquième et dernier TP, nous allons ajouter mockito à notre projet. Mockito est un framework qui permet de créer des mocks pour les tests unitaires. Un mock est un objet qui simule un autre objet. Il permet de tester des classes qui dépendent d'autres classes sans avoir à créer ces classes dépendantes.
 
 ## Crédits 
 

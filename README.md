@@ -1,6 +1,7 @@
-# QTL - TP
+# QTL - TP 2
 
-La liste des 5 TP de QT pour la première année de Master SIGLIS.
+Ce deuxième TP rajoute des frameworks complémentaires à jUnit pour réaliser des tests plus complexes. Ces framesworks sont [Hamcrest](http://hamcrest.org/JavaHamcrest/), [AssertJ](https://joel-costigliola.github.io/assertj/) et [Truth](https://truth.dev/).
+Nous reprenons les classes de TP1 et nous remplaçons la méthode `assertEquals` par les méthodes correspondantes dans les frameworks comme `assertThat(actualNumber).isEqualTo(expected)`.
 
 ## Crédits 
 

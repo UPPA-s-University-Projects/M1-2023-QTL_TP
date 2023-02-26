@@ -1,6 +1,7 @@
-# QTL - TP
+# QTL - TP 1
 
-La liste des 5 TP de QT pour la première année de Master SIGLIS.
+Ce premier TP se concentre sur l'ajout de jUnit (5) à votre projet et l'écriture de quelques tests basiques sur différentes méthodes dans différentes classes.
+Toutes les classes ont une classe _Test_ associée, qui contient les tests. 
 
 ## Crédits 
 

@@ -1,6 +1,9 @@
+package Tests;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
+
+import Entity.Perroquet;
 
 public class PerroquetTest {
 	

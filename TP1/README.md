@@ -5,4 +5,4 @@ Toutes les classes ont une classe _Test_ associée, qui contient les tests.
 
 ## Crédits 
 
-Les TP 1, 2 et 3 ont été réalisés par [@dodo120](https://github.com/dodo120). Les commentaires et corrections ont été réalisés par [@Ttiki](https://github.com/Ttiki)
+Les TP ont été réalisés par [@dodo120](https://github.com/dodo120). Les commentaires et corrections ont été réalisés par [@Ttiki](https://github.com/Ttiki)
